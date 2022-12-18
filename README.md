@@ -1,3 +1,5 @@
+This will give you a fresh Django-React project ready to code.
+
 # How to start
 
 1. Run `git clone https://github.com/LobbyxD/django_react_project.git`
