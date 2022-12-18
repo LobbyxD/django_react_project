@@ -1,6 +1,6 @@
 # How to start
 
-1. Run `git clone https://github.com/LobbyxD/django-react-app.git`
+1. Run `git clone https://github.com/LobbyxD/django_react_project.git`
 2. Run `cd django-react-app`
 
 # Backend
