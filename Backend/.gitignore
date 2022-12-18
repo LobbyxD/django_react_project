@@ -1,0 +1,11 @@
+
+#Remove Virtual Enviorment from git add
+/myenv
+
+#Remove App Commits besides __init__.py
+migrations/
+__pycache__/
+!/migrations/__init__.py
+
+# Remove Database
+db.sqlite3
